@@ -1,0 +1,4 @@
+/home/maxim/Programs/clion-2018.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - Unix Makefiles" /home/maxim/prog/diploma/pnn/khrennikov_cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/maxim/prog/diploma/pnn/khrennikov_cpp/cmake-build-release

@@ -1,0 +1,1 @@
+g++-8  -O3 -DNDEBUG   CMakeFiles/test.dir/src/test.cpp.o CMakeFiles/test.dir/src/utils.cpp.o CMakeFiles/test.dir/src/neuron.cpp.o CMakeFiles/test.dir/src/neural_network.cpp.o  -o test 

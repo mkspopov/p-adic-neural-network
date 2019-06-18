@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/neural_network.cpp
+algorithm
+-
+fstream
+-
+neural_network.h
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/neural_network.h
+
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/neural_network.h
+cassert
+-
+iostream
+-
+unordered_set
+-
+vector
+-
+neuron.h
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/neuron.h
+
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/neuron.h
+iostream
+-
+utils.h
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/utils.h
+
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/src/utils.h
+cassert
+-
+iostream
+-
+random
+-
+unordered_set
+-
+vector
+-
+

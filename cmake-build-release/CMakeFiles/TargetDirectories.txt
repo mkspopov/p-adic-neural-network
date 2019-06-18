@@ -1,0 +1,4 @@
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/cmake-build-release/CMakeFiles/edit_cache.dir
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/cmake-build-release/CMakeFiles/test.dir
+/home/maxim/prog/diploma/pnn/khrennikov_cpp/cmake-build-release/CMakeFiles/diploma.dir
